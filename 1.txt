@@ -8,10 +8,6 @@
 		},
 
 		{
-			"url": "https://hutool.ml/tang",
-			"name": "🚀唐长老"
-		},
-		{
 
 			"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
 			"name": "🚀月光宝盒"
@@ -21,7 +17,7 @@
 			"name": "🚀云星家庭"
 		},
 		{
-			"url": "http://111.67.196.181/mtv/meow.txt",
+			"url": "https://gitcode.net/x124056587/cangk/-/raw/master/1x.json?inline=false",
 			"name": "🚀太阳线路"
 		},
 		{
