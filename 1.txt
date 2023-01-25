@@ -1,11 +1,6 @@
 {
 	"urls": [
 
-
-		{
-			"url": "https://raw.iqiq.io/leevi0709/duo/main/v.json",
-			"name": "🏡多多家庭版"
-		},
 		{
 			"url": "http://pandown.pro/tvbox/tvbox.json",
 			"name": "🏡巧计线路"
