@@ -17,7 +17,7 @@
 			"name": "🚀云星家庭"
 		},
 		{
-			"url": "https://gitcode.net/x124056587/cangk/-/raw/master/1x.json?inline=false",
+			"url": "https://gitcode.net/x124056587/cangk/-/raw/master/1x.json",
 			"name": "🚀太阳线路"
 		},
 		{
