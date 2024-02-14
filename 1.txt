@@ -1,6 +1,12 @@
 {
 	"urls": [
 		
+
+		{
+			"url": "https://gitcode.net/x124056587/cangk/-/raw/master/%E5%A4%9A%E4%BB%932.1.json",
+			"name": "my"
+		},
+		
 		{
 			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
 			"name": "🚀南风线路"
