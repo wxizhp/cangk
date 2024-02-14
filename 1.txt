@@ -1,8 +1,9 @@
 {
 	"urls": [
 
+
 		{
-			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+			"url": "https://gitcode.net/x124056587/cangc_test/-/raw/master/XC.json",
 			"name": "🚀南风线路"
 		},
 
@@ -51,6 +52,5 @@
 			"url": "http://000913.xyz/box/tv.json",
 			"name": "🚀源享家线路"
 		}
-		
 	]
 }
