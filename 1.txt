@@ -49,17 +49,8 @@
 		{
 			"url": "http://000913.xyz/box/tv.json",
 			"name": "🚀源享家线路"
-		},
-		
-
-		{
-			"url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-			"name": "🚀香雅情"
-		},
-		{
-			"url": "http://xhww.fun/小米/DEMO.json",
-			"name": "🚀小米"
 		}
+		
 
 	]
 }
