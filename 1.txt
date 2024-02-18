@@ -2,7 +2,7 @@
 	"urls": [
 		{
 			"url":"http://饭太硬.top/tv",
-			"name":"MySite"
+			"name":"MySite1"
 		},
 		{"url": "http://饭太硬.top/tv",
 "name": "🚀饭太硬"},
