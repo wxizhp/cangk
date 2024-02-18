@@ -1,7 +1,7 @@
 {
 	"urls": [
 		{
-			"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+			"url":"http://饭太硬.top/tv",
 			"name":"MySite"
 		},
 		{"url": "http://饭太硬.top/tv",
