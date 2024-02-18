@@ -1,8 +1,8 @@
 {
 	"urls": [
 		{
-			"url":"http://饭太硬.top/tv",
-			"name":"MySite1"
+			"url":"http://肥猫.live",
+			"name":"MySite"
 		},
 		{"url": "http://饭太硬.top/tv",
 "name": "🚀饭太硬"},
