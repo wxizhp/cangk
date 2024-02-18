@@ -1,7 +1,7 @@
 {
 	"urls": [
 		{
-			"url":"https://gitcode.net/x124056587/cangk/-/blob/35619aaf429270b55ce1a1b39ee826ed36af6072/1.json",
+			"url":"https://gitcode.net/x124056587/cangk/-/raw/35619aaf429270b55ce1a1b39ee826ed36af6072/1.json",
 			"name":"MySite"
 		},
 		{"url": "http://饭太硬.top/tv",
