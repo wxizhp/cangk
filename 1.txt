@@ -1,11 +1,10 @@
 {
 	"urls": [
 		{
-			"url":"http://肥猫.live",
+			"url":"http://饭太硬.top/tv",
 			"name":"MySite"
 		},
-		{"url": "http://饭太硬.top/tv",
-"name": "🚀饭太硬"},
+
 {"url": "http://肥猫.live",
 "name": "🚀肥猫"},
 {"url": "https://pastebin.com/raw/5NHaxyGR",
