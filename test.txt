@@ -1,0 +1,1 @@
+douyu,http://openhls-tct.douyucdn2.cn/dyliveflv3/9067836raxU5zmjQ_2000.m3u8?txSecret=3b22dc340a5b054425ceafd67b20632e&txTime=66097330&token=h5-douyu-0-9067836-c25aadde54f7bf126306d794cb2fda7c&did=0cb4ff7d2be2cb3917936a1f000817p1&origin=tct&vhost=play3&sid=387440045
