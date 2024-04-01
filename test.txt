@@ -1,7 +1,6 @@
 test,#genre#
 
-3,https://hw.flv.huya.com/src/1199512562348-1199512562348-5225629860856070144-2399025248152-10057-A-0-1-imgplus.flv?wsSecret=6c09da1594bc682f12105d75e204a5a1&wsTime=660bf641&seqid=3179327305354&ctype=tars_mobile&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=2_1&uid=1467353713302&uuid=2202007085&t=103&sv=2402211431&sdk_sid=1711973591998
-
+3,https://bd-flv.yy.com/live/15013_xv_1349695640_1349695640_0_0_0-15013_xa_1349695640_1349695640_0_0_0-0-0-0-0-0-1711973149645547.flv?codec=orig&appid=15013&secret=de878dd6f7868ba5f94f44a5258a5d91&t=1712060768&stream_key=15013_xv_1349695640_1349695640_0_0_0&line_seq=4&cp_id=4&mtk=1&r=enter&playeruid=0&uuid=1711974279932775312
 
 斗鱼音乐,#genre#
 睡懵爱唱歌,http://openhls-tct.douyucdn2.cn/dyliveflv3a/12014994rcFQLeFs_2000.m3u8
