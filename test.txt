@@ -1,6 +1,8 @@
 YY,#genre#
 
-3,https://bd-flv.yy.com/live/15013_xv_1349695640_1349695640_0_0_0-15013_xa_1349695640_1349695640_0_0_0-0-0-0-0-0-1711973149645547.flv?codec=orig&appid=15013&secret=de878dd6f7868ba5f94f44a5258a5d91&t=1712060768&stream_key=15013_xv_1349695640_1349695640_0_0_0&line_seq=4&cp_id=4&mtk=1&r=enter&playeruid=0&uuid=1711974279932775312
+3,https://bd-flv.yy.com/live/15013_xv_1349695640_1349695640_0_0_0-15013_xa_1349695640_1349695640_0_0_0-0-0-0-0-0-1711973149645547.flv
+
+
 
 斗鱼音乐,#genre#
 睡懵爱唱歌,http://openhls-tct.douyucdn2.cn/dyliveflv3a/12014994rcFQLeFs_2000.m3u8
