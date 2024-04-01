@@ -3,6 +3,9 @@ testtest,https://124-225-7-42.bytefcdnrd.com/hs.p2p.huya.com/huyalive/71862053-2
 
 1,https://117-27-246-131.bytefcdnrd.com/src/1199526169708-1199526169708-5284073027040968704-2399052462872-10057-A-0-1.flv?302_type=cold_aggr&ctype=huya_wap&dMod=mseh-0&domain=tx.flv.huya.com&fs=bgct&ratio=500&redirect_from=pod.cn-eez25s.ikel.nss&sdkPcdn=1_1&sdk_sid=1711971033229&seqid=3179324873523&sv=2402211431&t=103&uid=1467353713302&uuid=3938206283&ver=1&wsSecret=cd22ee929d788c7edbe7087f19b927b6&wsTime=660bec5b
 
+2,https://tx.flv.huya.com/src/1199526169708-1199526169708-5284073027040968704-2399052462872-10057-A-0-1.flv?wsSecret=cd22ee929d788c7edbe7087f19b927b6&wsTime=660bec5b&seqid=3179324873523&ctype=huya_wap&ver=1&fs=bgct&ratio=500&dMod=mseh-0&sdkPcdn=1_1&uid=1467353713302&uuid=3938206283&t=103&sv=2402211431&sdk_sid=1711971033229
+
+
 斗鱼音乐,#genre#
 睡懵爱唱歌,http://openhls-tct.douyucdn2.cn/dyliveflv3a/12014994rcFQLeFs_2000.m3u8
 一奕奕一,http://openhls-tct.douyucdn2.cn/dyliveflv3/11153244rEsRSsSX_2000.m3u8
