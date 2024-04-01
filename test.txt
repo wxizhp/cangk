@@ -1,7 +1,6 @@
 test,#genre#
 
-3,http://hw.hls.huya.com/src/1677942333-1677942333-7206707444808941568-3356008122-10057-A-0-1-imgplus.m3u8?ratio=2000&wsSecret=a5986323bbcec1719732d225233c5fc0&wsTime=660bf05d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&t=103
-
+3,https://hw.flv.huya.com/src/1199512562348-1199512562348-5225629860856070144-2399025248152-10057-A-0-1-imgplus.flv?wsSecret=6c09da1594bc682f12105d75e204a5a1&wsTime=660bf641&seqid=3179327305354&ctype=tars_mobile&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=2_1&uid=1467353713302&uuid=2202007085&t=103&sv=2402211431&sdk_sid=1711973591998
 
 
 斗鱼音乐,#genre#
