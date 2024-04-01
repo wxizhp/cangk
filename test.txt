@@ -1,6 +1,6 @@
-9738854,http://openhls-tct.douyucdn2.cn/dyliveflv3/9738854r8rhAhw29_2000.m3u8?txSecret=7142b58349d583aa57b79cbd0b3ca88f&txTime=66098688&token=h5-douyu-0-9738854-79a80c0ccb3904c189ec7968b69f1efe&did=0cb4ff7d2be2cb3917936a1f000817p1&origin=tct&vhost=play3&sid=388249925
-9018297,http://openhls-tct.douyucdn2.cn/dyliveflv3a/9018297r7xVb25hw_2000.m3u8?txSecret=55f7fb1cfde1aabf48dd4196e91e7dec&txTime=6609868a&token=h5-douyu-0-9018297-0c94ece6476efa6845c04a6b5c7c414b&did=0cb4ff7d2be2cb3917936a1f000817p1&origin=tct&vhost=play4&sid=387731910
-17732,http://openhls-tct.douyucdn2.cn/dyliveflv3a/17732rtara_2000.m3u8?txSecret=bff1d01324ec0d0d6336e09c8a4f24ed&txTime=6609868b&token=h5-douyu-0-17732-43a90c35d21461fd4ed05dc7665a2385&did=0cb4ff7d2be2cb3917936a1f000817p1&origin=tct&vhost=play4&sid=387007167
+9738854,http://openhls-tct.douyucdn2.cn/dyliveflv3/9738854r8rhAhw29_2000.m3u8
+9018297,http://openhls-tct.douyucdn2.cn/dyliveflv3a/9018297r7xVb25hw_2000.m3u8
+17732,http://openhls-tct.douyucdn2.cn/dyliveflv3a/17732rtara_2000.m3u8
 610972,http://openhls-tct.douyucdn2.cn/dyliveflv3/610972r8tGzLAtXf_2000.m3u8?txSecret=9ae4c6449dfbfab3792f6b936b557da4&txTime=6609868c&token=h5-douyu-0-610972-732da60df97d6465d21b9bc85c3ed627&did=0cb4ff7d2be2cb3917936a1f000817p1&origin=tct&vhost=play3&sid=386088251
 8434598,http://openhls-tct.douyucdn2.cn/dyliveflv1/8434598reJgEFxmQ_2000.m3u8?txSecret=d56126d5f481970cdaf755ceeec207b2&txTime=6609868d&token=h5-douyu-0-8434598-dfc68f2fc8ae7606d5fd720a51bcabd2&did=0cb4ff7d2be2cb3917936a1f000817p1&origin=tct&vhost=play1&sid=387182448
 2337939,http://openhls-tct.douyucdn2.cn/dyliveflv3/2337939rXqJNH0uW_2000.m3u8?txSecret=59d615b81e5057b3ef59a895aa5cb850&txTime=6609868d&token=h5-douyu-0-2337939-a4fbbb676888b5ac0cb0f9d4dd1f4a1a&did=0cb4ff7d2be2cb3917936a1f000817p1&origin=tct&vhost=play3&sid=387897280
