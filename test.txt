@@ -2,7 +2,7 @@ test,#genre#
 
 3,https://tx.flv.huya.com/src/1199526169708-1199526169708-5284073027040968704-2399052462872-10057-A-0-1.flv?wsSecret=944604bbee4d87af447b23e3a818903e&wsTime=660bec5b&seqid=3179325255807&ctype=huya_wap&ver=1&fs=bgct&ratio=500&dMod=mseh-0&sdkPcdn=1_1&uid=1467353713302&uuid=3938206283&t=103&sv=2402211431&sdk_sid=1711971033229
 
-4,http://hw-vod.cdn.huya.com/leaf/1048585/1199617497673/69456239/28252763_0e86095b1d83c224d087da047ea5f517_264_1080_6_ai.mp4?bitrate=1279&client=108&definition=yuanhua&pid=1677942333&scene=vod&vid=972781280&hyvid=972781280&hyauid=1677942333&hyroomid=0&hyratio=1279&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfOTcyNzgxMjgw&
+4,http://hw.hls.huya.com/src/1677942333-1677942333-7206707444808941568-3356008122-10057-A-0-1-imgplus.m3u8?wsSecret=a5986323bbcec1719732d225233c5fc0&wsTime=660bf05d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&t=103
 
 
 
