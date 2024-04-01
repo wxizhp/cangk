@@ -2,7 +2,7 @@ test,#genre#
 
 3,https://tx.flv.huya.com/src/1199526169708-1199526169708-5284073027040968704-2399052462872-10057-A-0-1.flv?wsSecret=944604bbee4d87af447b23e3a818903e&wsTime=660bec5b&seqid=3179325255807&ctype=huya_wap&ver=1&fs=bgct&ratio=500&dMod=mseh-0&sdkPcdn=1_1&uid=1467353713302&uuid=3938206283&t=103&sv=2402211431&sdk_sid=1711971033229
 
-4,https://117-27-246-130.bytefcdnrd.com/src/1199526169708-1199526169708-5284073027040968704-2399052462872-10057-A-0-1.flv?302_type=cold_aggr&ctype=huya_wap&dMod=mseh-0&domain=tx.flv.huya.com&fs=bgct&ratio=500&redirect_from=pod.cn-eez25s.6e1h.nss&sdkPcdn=1_1&sdk_sid=1711971033229&seqid=3179325255807&sv=2402211431&t=103&uid=1467353713302&uuid=3938206283&ver=1&wsSecret=944604bbee4d87af447b23e3a818903e&wsTime=660bec5b
+4,https://36-99-194-143.bytefcdnrd.com/huyalive/1199526169708-1199526169708-5284073027040968704-2399052462872-10057-A-0-1.flv?302_type=cold_aggr&ctype=tars_mobile&dMod=mseh-0&domain=hs.flv.huya.com&fs=bgct&ratio=2000&redirect_from=pod.cn-eez25s.uaih.nss&sdkPcdn=1_1&sdk_sid=1711971868761&seqid=3179325582097&sv=2402211431&t=103&uid=1467353713302&uuid=478767999&ver=1&wsSecret=fde70562a373ad17547f6d1688843f3b&wsTime=660bef99
 
 
 斗鱼音乐,#genre#
