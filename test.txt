@@ -1,3 +1,6 @@
+test,#genre#
+testtest,https://124-225-7-42.bytefcdnrd.com/hs.p2p.huya.com/huyalive/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1_405_2_66.slice
+
 斗鱼音乐,#genre#
 睡懵爱唱歌,http://openhls-tct.douyucdn2.cn/dyliveflv3a/12014994rcFQLeFs_2000.m3u8
 一奕奕一,http://openhls-tct.douyucdn2.cn/dyliveflv3/11153244rEsRSsSX_2000.m3u8
