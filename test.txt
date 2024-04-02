@@ -2,7 +2,7 @@ YY,#genre#
 
 1,https://bd-flv.yy.com/live/15013_xv_1356172358_1356172358_0_10_0-15013_xa_1356172358_1356172358_0_10_0-0-0-0-0-0-1712030812297465.flv?codec=orig&appid=15013&rts_tk=6b079130e8a2ebee2b745d6f54eda1c2&secret=5cea91b0e283b121a2c71ea04335f68b&t=1712139276&stream_key=15013_xv_1356172358_1356172358_0_10_0&r_stream_key=15013_xa_1356172358_1356172358_0_10_0&channelid=1356172358&mtk=1&line_seq=6&cp_id=4&rts=1&ctx=eyJydHNfYXV0aCI6MiwiZGVmX3Bhc3MiOjF9&r=enter
 
-2,https://bd-flv.yy.com/live/15013_xv_1356172358_1356172358_0_11_0-15013_xa_1356172358_1356172358_0_10_0-0-0-0-0-0-1712030812297465.flv?codec=orig&appid=15013&rts_tk=6b079130e8a2ebee2b745d6f54eda1c2&secret=5cea91b0e283b121a2c71ea04335f68b&t=1712139276&stream_key=15013_xv_1356172358_1356172358_0_11_0&r_stream_key=15013_xa_1356172358_1356172358_0_10_0&channelid=1356172358&mtk=1&line_seq=6&cp_id=4&rts=1&ctx=eyJydHNfYXV0aCI6MiwiZGVmX3Bhc3MiOjF9&r=enter
+
 
 
 斗鱼音乐,#genre#
