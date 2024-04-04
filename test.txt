@@ -750,6 +750,10 @@ China羽毛,https://bd-flv.yy.com/live/15013_xv_1453767988_1453767988_0_10_0-150
 
 
 斗鱼音乐,#genre#
+周杰伦MV,http://openhls-tct.douyucdn2.cn/dyliveflv3/7537296rGeZbadcA_2000.m3u8
+女团点播MV,http://openhls-tct.douyucdn2.cn/dyliveflv3a/329667rLnW0VReOu_2000.m3u8
+?MV,http://openhls-tct.douyucdn2.cn/dyliveflv3a/17732rtara_2000.m3u8
+爱笑会议室,http://openhls-tct.douyucdn2.cn/dyliveflv3/9375430rlEN06d09_2000.m3u8
 睡懵爱唱歌,http://openhls-tct.douyucdn2.cn/dyliveflv3a/12014994rcFQLeFs_2000.m3u8
 一奕奕一,http://openhls-tct.douyucdn2.cn/dyliveflv3/11153244rEsRSsSX_2000.m3u8
 斗歌台,http://openhls-tct.douyucdn2.cn/dyliveflv3a/11583330r1MQFw8C_2000.m3u8
