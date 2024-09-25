@@ -28,3 +28,19 @@ http://cdn.qiaoji8.com/tvbox.json
 https://raw.liucn.cc/box/m.json
 https://pastebin.com/raw/gtbKvnE1
 https://pastebin.com/raw/sbPpDm9G
+
+
+
+
+➤以下经测试接口较为稳定的
+Tvbox单仓接口
+🔘繁华音乐仓
+https://gitee.com/xyanpeng/test-specific/raw/master/YY.json
+🔘毒盒影视多仓：
+https://毒盒.com/tv/dc.json 🔘直播 https://2912.kstore.space/520.txt
+🔘宝盒没宝
+https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json 🔘宝盒视界 https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ysdc.json 🔘采集之王 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiushizhe/daozhang/main/drpy_dzlive6.21/index.json 🔘拾光精选单仓：https://gitee.com/xmbjmjk/ck/raw/master/ck.json 🔘天微精选仓：https://qixing.myhkw.com/DC.txt 🔘豆瓣热播 297条线路： https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-B.json 🔘科技星云：http://itvbox.cc/云星日记 🔘科技星云：http://itvbox.cc/可视仓库 🔘开心软件 https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json
+🔘肥猫软件：https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/bd112246-eb72-4aeb-8566-c80aafcd42a7.bmp
+🔘欧歌家庭仓：http://vip.nxog.top/ 🔘王二小放牛娃 主接口:http://tvbox.王二小放牛娃.top (http://tvbox.王二小放牛娃.top/) 🔘饭总：http://饭太硬.com/tv 🔘摸鱼：http://我不是.摸鱼儿.top 🔘肥猫：http://肥猫.com/ 🔘巧记：http://cdn.qiaoji8.com/tvbox.json 🔘江雅：https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json 🔘高天：https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json 🔘道长：https://pastebin.com/raw/5NHaxyGR 🔘刘备：https://raw.liucn.cc/box/m.json 🔘运输：https://weixine.net/ysc.json 🔘福利：https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.jsonhttps://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json
+以下接口 经过测试 稳定耐用
+------------------------------------以下为tv box影视仓多仓接口 🔘多多：https://www.gitlink.org.cn/api/leevi0321/apps/raw/room.json?ref=main 🔘毒药：https://tv.youdu.fan:666
