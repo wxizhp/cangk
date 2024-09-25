@@ -406,7 +406,7 @@
 "wallpaper": "",
 "logo": "",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/jiejie.jar;md5;732b96982bee78706f88748fc8aae0d9",
+"spider":"./jiejie.jar;md5;732b96982bee78706f88748fc8aae0d9",
 "lives":[{"name":"live","type":0,"playerType":1,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/zb/测试.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"live2","type":0,"playerType":1,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=live&proxy=&url="]}]}],
 "doh": [
 { "name": "Google", "url": "https://dns.google/dns-query", "ips": [ "8.8.4.4", "8.8.8.8" ] }, { "name": "Cloudflare", "url": "https://cloudflare-dns.com/dns-query", "ips": [ "1.1.1.1", "1.0.0.1", "2606:4700:4700::1111", "2606:4700:4700::1001" ] },
